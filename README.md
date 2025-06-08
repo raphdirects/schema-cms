@@ -1,2 +1,2 @@
 # schema-cms
-AI first - scenario-based cms
+AI first - schema-based cms
