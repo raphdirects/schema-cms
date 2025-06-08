@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const marked = require('marked');
+const { marked } = require('marked');
 
 // Load content
 const contentPath = path.join(__dirname, 'content', 'welcome.md');
